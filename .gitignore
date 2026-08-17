@@ -1,0 +1,31 @@
+# --- Flutter & Dart Generated Files ---
+.dart_tool/
+.pub/
+build/
+.packages
+
+# --- Android Build & Local Config Files ---
+android/app/src/debug/
+android/app/src/profile/
+android/app/src/release/
+android/gradlew
+android/gradlew.bat
+android/.gradle/
+android/local.properties
+android/*.jks
+android/*.keystore
+android/key.properties
+android/app/google-services.json
+
+# --- Environment & Secret Keys ---
+.env
+.env.*
+*.pem
+*.key
+
+# --- IDE & System Files ---
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
